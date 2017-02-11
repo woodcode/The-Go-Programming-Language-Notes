@@ -1,1 +1,1 @@
-# go-study-notes
+# The Go Programming Language Study Notes
